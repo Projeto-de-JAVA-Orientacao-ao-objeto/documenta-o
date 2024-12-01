@@ -36,6 +36,10 @@ do negócio. Registros, controle de fluxo, consultas e cadastros são requisitos
 Em geral, requisito é algo que o usuário solicita explicitamente (ou requisita)
 O grupo pode optar por usar história de usuário.
 
+▪ Controle sobre suas tarefas
+▪ Acesso agil sobre sua informações
+▪ Media de notas alunos/professores
+
    ### Requisitos Funcionais
    perceptível do sistema pelos usuários. Telas, informações, relatórios, fluxo de
 negócio são requisitos funcionais.>
@@ -43,6 +47,34 @@ Exemplos:
 ID    Descrição
 RF 01 O sistema deverá solicitar ao usuário seu login e senha e verificar se o mesmo possui
 permissão de acesso ao sistema
+
+ID Login - 01 -  O sistema deverá solicitar ao usuário seu login e senha e verificar se o mesmo possui permissão de acesso ao sistema
+
+ID Administrador RF 02 O sistema irá exibir uma interface com as seguinte opções:
+
+▪ Registrar Alunos
+▪ Registrar Professores
+▪ Registrar Cursos
+▪ Tabela de Cadastros Cursos
+▪ Tabela de Cadastros Alunos
+▪ Tabela de Cadastros Pofessores
+
+ID Professor RF 03 O sistema irá exibir uma interface com as seguinte opções:
+
+▪ Aulas
+▪ Lançar notas
+▪ Alunos
+▪ Cursos
+▪ Folha de pagamento
+
+ID Aluno RF 04 O sistema irá exibir uma interface com as seguinte opções:
+
+▪ Aulas
+▪ Notas
+▪ Materias
+▪ Atividades
+▪ Horários
+▪ Ajuda
 
    ### Requisitos Não Funcionais
    <Comentário: Requisito Não Funcional é aquele que define os parâmetros de
@@ -68,13 +100,38 @@ sistema.>.
    
    ### Diagrama de Classe
 
+1. Desempenho
+▪ O sistema deve carregar as principais funcionalidades em menos de 2 segundos para a maioria dos usuários, considerando conexões de internet com velocidade média de 10 Mbps.
+▪ O tempo de resposta para as ações do usuário (como salvar notas ou postar atividades) deve ser inferior a 1 segundo.
+▪ O aplicativo deve funcionar de forma eficiente em dispositivos com memória RAM a partir de 2 GB.
+
+2. Usabilidade
+▪ O sistema deve ser intuitivo e fácil de usar, minimizando a necessidade de treinamento para professores, alunos e administradores.
+▪ Deve incluir um design responsivo, que permita a utilização em smartphones, tablets e desktops sem perda de funcionalidade ou legibilidade.
+▪ Deve apresentar feedback visual imediato para cada interação do usuário (ex.: animações simples, mensagens de confirmação ou erro).
+
+3. Confiabilidade e Disponibilidade
+▪ O sistema deve ter uma disponibilidade mínima de 99,5% ao longo do mês.
+▪ Em caso de falhas ou interrupções, a aplicação deve oferecer uma recuperação em menos de 1 hora.
+▪ Deve manter backups automáticos diários das informações críticas para garantir a integridade dos dados.
+
+4. Escalabilidade
+▪ O sistema deve ser capaz de suportar até 5.000 usuários simultâneos sem perda significativa de desempenho.
+▪ Deve permitir a expansão futura com adição de novos módulos (ex.: funcionalidades extras ou integração com outros sistemas) sem reestruturação significativa.
+
+5. Segurança
+▪ Todas as comunicações entre o cliente e o servidor devem ser criptografadas usando HTTPS e SSL/TLS.
+▪ Deve garantir autenticação segura para todos os usuários com controle de acesso baseado em papéis (RBAC).
+▪ Os dados sensíveis devem ser armazenados com hashing seguro para senhas e criptografia para informações críticas.
+
+
 ## Estrutura do Projeto 
 <Comentario: faça a adaptação necessária para o seu projeto
 - `src/`: Código-fonte do projeto.
-- `docs/`: Documentação adicional.
+- `docs/`: (https://github.com/Projeto-de-JAVA-Orientacao-ao-objeto/documents)
 
 ## Tecnologias Utilizadas
-- [Linguagem de Programação]
+- JAVA
 - [Framework/Biblioteca]
 - [Outras Tecnologias]
 
