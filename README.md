@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto visa desenvolver um sistema de <descrever> utilizando a metodologia ágil e práticas de DevOps integradas ao GitHub. A arquitetura do software seguirá o padrão Model-View-Controller (MVC) e incorporará o(s) padrõe(s) de projeto  <descrever> para garantir uma base de código robusta e escalável. O desenvolvimento será feito na linguagem Java.
+Este projeto visa desenvolver um sistema de uma instituição de ensino utilizando a metodologia ágil e práticas de DevOps integradas ao GitHub. A arquitetura do software seguirá o padrão Model-View-Controller (MVC) e incorporará o(s) padrõe(s) de projeto  Factory e Observer para garantir uma base de código robusta e escalável. O desenvolvimento será feito na linguagem Java.-
 
 ## Índice
 
@@ -131,8 +131,9 @@ sistema.>.
 - `docs/`: (https://github.com/Projeto-de-JAVA-Orientacao-ao-objeto/documents)
 
 ## Tecnologias Utilizadas
-- JAVA
-- [Framework/Biblioteca]
+- [JAVA]
+- [SQL]
+- 
 - [Outras Tecnologias]
 
 ## Instruções de Instalação
