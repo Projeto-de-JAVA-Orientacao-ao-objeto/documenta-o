@@ -21,8 +21,8 @@ Este projeto visa desenvolver um sistema de uma instituição de ensino utilizan
 
 ## Definições, Acrônimos e Abreviações.
  < ▪ DC - Documentação 
- < ▪ UC - Unidade de codigo  
- < ▪ BD - Banco de dados  
+ < ▪ UC - Unidade de codigo        
+ < ▪ BD - Banco de dados   
  < ▪ SCRUM - Metodologia ágil utilizada no desenvolvimento de projetos   
 
 ## Requisitos ou História de Usuário
