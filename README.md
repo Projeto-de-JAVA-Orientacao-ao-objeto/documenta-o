@@ -62,12 +62,12 @@ ID Professor RF 03 O sistema irá exibir uma interface com as seguinte opções:
 
 ID Aluno RF 04 O sistema irá exibir uma interface com as seguinte opções:
 
-   < ▪ Assistir Aulas
-   < ▪ Atividades
-   < ▪ Vizualizar notas
-   < ▪ Membros Matéria
-   < ▪ Alterar Grade
-   < ▪ Avisos
+   < ▪ Assistir Aulas   
+   < ▪ Atividades   
+   < ▪ Vizualizar notas   
+   < ▪ Membros Matéria   
+   < ▪ Alterar Grade   
+   < ▪ Avisos  
 
    ### Requisitos Não Funcionais
    < ▪ O sistema deve responder a qualquer operação no tempo máximo de 2 segundos.
