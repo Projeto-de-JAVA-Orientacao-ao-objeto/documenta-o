@@ -107,8 +107,6 @@ ID Aluno RF 04 O sistema irá exibir uma interface com as seguinte opções:
 ## Tecnologias Utilizadas
 - [JAVA]
 - [SQL]
-- 
-- [Outras Tecnologias]
 
 ## Instruções de Instalação
 1. Clone o repositório:
