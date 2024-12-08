@@ -20,20 +20,20 @@ Este projeto visa desenvolver um sistema de uma instituição de ensino utilizan
 8. [Contato](#contato)
 
 ## Definições, Acrônimos e Abreviações.
-▪ DC - Documentação 
-▪ UC - Unidade de codigo 
-▪ BD - Banco de dados 
-▪ SCRUM - Metodologia ágil utilizada no desenvolvimento de projetos  
+ < ▪ DC - Documentação 
+ < ▪ UC - Unidade de codigo  
+ < ▪ BD - Banco de dados  
+ < ▪ SCRUM - Metodologia ágil utilizada no desenvolvimento de projetos   
 
 ## Requisitos ou História de Usuário
 
- < ▪ O usuário administrador/aluno/professor deve conseguir acessar a tela de login. 
- < ▪ O login deve ser efetuado em no maximo 3 segundos. 
+ < ▪ O usuário administrador/aluno/professor deve conseguir acessar a tela de login.   
+ < ▪ O login deve ser efetuado em no maximo 3 segundos.   
 
    ### Requisitos Funcionais
-ID Login - 01 -  O sistema deverá solicitar ao usuário seu login e senha e verificar se o mesmo possui permissão de acesso ao sistema
-
-ID Administrador RF 02 O sistema irá exibir uma interface com as seguinte opções
+ID Login - 01 -  O sistema deverá solicitar ao usuário seu login e senha e verificar se o mesmo possui permissão de acesso ao sistema  
+ 
+ID Administrador RF 02 O sistema irá exibir uma interface com as seguinte opções  
 
    < ▪ Cadastrar Usuário  
    < ▪ Cadastrar Curso  
