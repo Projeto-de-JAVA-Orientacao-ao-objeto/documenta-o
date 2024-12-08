@@ -44,12 +44,12 @@ ID Login - 01 -  O sistema deverá solicitar ao usuário seu login e senha e ver
 
 ID Administrador RF 02 O sistema irá exibir uma interface com as seguinte opções:
 
-   < ▪ Cadastrar Usuário
-   < ▪ Cadastrar Curso
-   < ▪ Cadastrar Aulas
-   < ▪ Vizualizar Cursos
-   < ▪ Vizualizar Alunos
-   < ▪ Vizualizar Pofessores
+   < ▪ Cadastrar Usuário>
+   < ▪ Cadastrar Curso>
+   < ▪ Cadastrar Aulas>
+   < ▪ Vizualizar Cursos>
+   < ▪ Vizualizar Alunos>
+   < ▪ Vizualizar Pofessores>
 
 ID Professor RF 03 O sistema irá exibir uma interface com as seguinte opções:
 
