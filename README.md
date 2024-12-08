@@ -36,9 +36,9 @@ do negócio. Registros, controle de fluxo, consultas e cadastros são requisitos
 Em geral, requisito é algo que o usuário solicita explicitamente (ou requisita)
 O grupo pode optar por usar história de usuário.
 
-▪ Controle sobre suas tarefas
-▪ Acesso agil sobre sua informações
-▪ Media de notas alunos/professores
+< ▪ Controle sobre suas tarefas
+< ▪ Acesso agil sobre sua informações
+< ▪ Media de notas alunos/professores
 
    ### Requisitos Funcionais
    perceptível do sistema pelos usuários. Telas, informações, relatórios, fluxo de
@@ -52,30 +52,30 @@ ID Login - 01 -  O sistema deverá solicitar ao usuário seu login e senha e ver
 
 ID Administrador RF 02 O sistema irá exibir uma interface com as seguinte opções:
 
-▪ Cadastrar Usuário
-▪ Cadastrar Curso
-▪ Cadastrar Aulas
-▪ Vizualizar Cursos
-▪ Vizualizar Alunos
-▪ Vizualizar Pofessores
+< ▪ Cadastrar Usuário
+< ▪ Cadastrar Curso
+< ▪ Cadastrar Aulas
+< ▪ Vizualizar Cursos
+< ▪ Vizualizar Alunos
+< ▪ Vizualizar Pofessores
 
 ID Professor RF 03 O sistema irá exibir uma interface com as seguinte opções:
 
-▪ Sala de Aula   
-▪ Atividades
-▪ Distribuir Notas
-▪ Encaminhar Avisos
-▪ Membros Materia
-▪ Vizualizar Atividades Encaminhadas
+< ▪ Sala de Aula   
+< ▪ Atividades
+< ▪ Distribuir Notas
+< ▪ Encaminhar Avisos
+< ▪ Membros Materia
+< ▪ Vizualizar Atividades Encaminhadas
 
 ID Aluno RF 04 O sistema irá exibir uma interface com as seguinte opções:
 
-▪ Assistir Aulas
-▪ Atividades
-▪ Vizualizar notas
-▪ Membros Matéria
-▪ Alterar Grade
-▪ Avisos
+< ▪ Assistir Aulas
+< ▪ Atividades
+< ▪ Vizualizar notas
+< ▪ Membros Matéria
+< ▪ Alterar Grade
+< ▪ Avisos
 
    ### Requisitos Não Funcionais
    <Comentário: Requisito Não Funcional é aquele que define os parâmetros de
