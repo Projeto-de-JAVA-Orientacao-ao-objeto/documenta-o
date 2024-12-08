@@ -24,20 +24,14 @@ Este projeto visa desenvolver um sistema de uma instituição de ensino utilizan
 sistema e que são utilizadas pelos usuários para indicar áreas internas, documentos,
 processos, etc e são relevantes para o projeto. Listar em ordem alfabética.>
 Exemplos:
-▪ DAC – departamento de adminitracao e controle
-▪ Controle de caixa – é o processo onde ....
-▪ SCRUM - Metodologia ágil utilizada no desenvolvimento de projetos
+▪ DAC – departamento de adminitracao e controle  
+▪ Controle de caixa – é o processo onde ....  
+▪ SCRUM - Metodologia ágil utilizada no desenvolvimento de projetos  
 
 ## Requisitos ou História de Usuário
-< Comentário: Aqui serão descritos os requisitos funcionais e não funcionais do
-sistema a ser implementado. Os requisitos, em geral, refletem funções que o usuário
-precisa realizar para atingir o objetivo do sistema ou funções de apoio à estratégia
-do negócio. Registros, controle de fluxo, consultas e cadastros são requisitos típicos.
-Em geral, requisito é algo que o usuário solicita explicitamente (ou requisita)
-O grupo pode optar por usar história de usuário.
 
-1 - O usuário administrador/aluno/professor deve conseguir acessar a tela de login.
-2 - O login deve ser efetuado em no maximo 3 segundos.
+ < ▪ O usuário administrador/aluno/professor deve conseguir acessar a tela de login. 
+ < ▪ O login deve ser efetuado em no maximo 3 segundos. 
 
    ### Requisitos Funcionais
 ID Login - 01 -  O sistema deverá solicitar ao usuário seu login e senha e verificar se o mesmo possui permissão de acesso ao sistema
