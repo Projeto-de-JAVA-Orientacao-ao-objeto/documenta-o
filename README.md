@@ -36,53 +36,42 @@ do negócio. Registros, controle de fluxo, consultas e cadastros são requisitos
 Em geral, requisito é algo que o usuário solicita explicitamente (ou requisita)
 O grupo pode optar por usar história de usuário.
 
-< ▪ Controle sobre suas tarefas
-< ▪ Acesso agil sobre sua informações
-< ▪ Media de notas alunos/professores
+1 - O usuário administrador/aluno/professor deve conseguir acessar a tela de login.
+2 - O login deve ser efetuado em no maximo 3 segundos.
 
    ### Requisitos Funcionais
 ID Login - 01 -  O sistema deverá solicitar ao usuário seu login e senha e verificar se o mesmo possui permissão de acesso ao sistema
 
 ID Administrador RF 02 O sistema irá exibir uma interface com as seguinte opções:
 
-< ▪ Cadastrar Usuário
-< ▪ Cadastrar Curso
-< ▪ Cadastrar Aulas
-< ▪ Vizualizar Cursos
-< ▪ Vizualizar Alunos
-< ▪ Vizualizar Pofessores
+   < ▪ Cadastrar Usuário
+   < ▪ Cadastrar Curso
+   < ▪ Cadastrar Aulas
+   < ▪ Vizualizar Cursos
+   < ▪ Vizualizar Alunos
+   < ▪ Vizualizar Pofessores
 
 ID Professor RF 03 O sistema irá exibir uma interface com as seguinte opções:
 
-< ▪ Sala de Aula   
-< ▪ Atividades
-< ▪ Distribuir Notas
-< ▪ Encaminhar Avisos
-< ▪ Membros Materia
-< ▪ Vizualizar Atividades Encaminhadas
+   < ▪ Sala de Aula   
+   < ▪ Atividades
+   < ▪ Distribuir Notas
+   < ▪ Encaminhar Avisos
+   < ▪ Membros Materia
+   < ▪ Vizualizar Atividades Encaminhadas
 
 ID Aluno RF 04 O sistema irá exibir uma interface com as seguinte opções:
 
-< ▪ Assistir Aulas
-< ▪ Atividades
-< ▪ Vizualizar notas
-< ▪ Membros Matéria
-< ▪ Alterar Grade
-< ▪ Avisos
+   < ▪ Assistir Aulas
+   < ▪ Atividades
+   < ▪ Vizualizar notas
+   < ▪ Membros Matéria
+   < ▪ Alterar Grade
+   < ▪ Avisos
 
    ### Requisitos Não Funcionais
-   <Comentário: Requisito Não Funcional é aquele que define os parâmetros de
-funcionamento do sistema, que trarão ao usuário uma melhor experiência no uso do
-sistema, porém não são diretamente acionados por ele. Nesta categoria estão os
-requisitos de arquitetura, desempenho, usabilidade, tempo de resposta, padrão de
-nomenclatura, entre outros. Em geral, os usuários finais do sistema tem uma boa
-noção dos requisitos não funcionais desejados, porém, pela própria subjetividade
-deles, o usuário não os explicita diretamente. Ou, nos melhores casos, o usuário fala
-coisas como: “que o sistema seja rápido”, “fácil de usar”, “atalhos”, “esteja sempre
-disponível”, “não dependa de ninguém para usar”.
-1. Segurança:<Descreve os requisitos associados à integridade dos dados, privacidade,
-como o sistema trata de informação confidencial, liberação de acesso aos usuários do
-sistema.>.
+   < ▪ O sistema deve responder a qualquer operação no tempo máximo de 2 segundos.
+   < ▪ O sistema deve ser seguro ao armazenar as informações do cliente.
 
 ## Diagramas UML
    <Comentario
