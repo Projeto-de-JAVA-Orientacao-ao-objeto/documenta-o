@@ -41,13 +41,6 @@ O grupo pode optar por usar história de usuário.
 < ▪ Media de notas alunos/professores
 
    ### Requisitos Funcionais
-   perceptível do sistema pelos usuários. Telas, informações, relatórios, fluxo de
-negócio são requisitos funcionais.>
-Exemplos:
-ID    Descrição
-RF 01 O sistema deverá solicitar ao usuário seu login e senha e verificar se o mesmo possui
-permissão de acesso ao sistema
-
 ID Login - 01 -  O sistema deverá solicitar ao usuário seu login e senha e verificar se o mesmo possui permissão de acesso ao sistema
 
 ID Administrador RF 02 O sistema irá exibir uma interface com as seguinte opções:
