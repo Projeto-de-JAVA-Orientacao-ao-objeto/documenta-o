@@ -52,29 +52,30 @@ ID Login - 01 -  O sistema deverá solicitar ao usuário seu login e senha e ver
 
 ID Administrador RF 02 O sistema irá exibir uma interface com as seguinte opções:
 
-▪ Registrar Alunos
-▪ Registrar Professores
-▪ Registrar Cursos
-▪ Tabela de Cadastros Cursos
-▪ Tabela de Cadastros Alunos
-▪ Tabela de Cadastros Pofessores
+▪ Cadastrar Usuário
+▪ Cadastrar Curso
+▪ Cadastrar Aulas
+▪ Vizualizar Cursos
+▪ Vizualizar Alunos
+▪ Vizualizar Pofessores
 
 ID Professor RF 03 O sistema irá exibir uma interface com as seguinte opções:
 
-▪ Aulas
-▪ Lançar notas
-▪ Alunos
-▪ Cursos
-▪ Folha de pagamento
+▪ Sala de Aula   
+▪ Atividades
+▪ Distribuir Notas
+▪ Encaminhar Avisos
+▪ Membros Materia
+▪ Vizualizar Atividades Encaminhadas
 
 ID Aluno RF 04 O sistema irá exibir uma interface com as seguinte opções:
 
-▪ Aulas
-▪ Notas
-▪ Materias
+▪ Assistir Aulas
 ▪ Atividades
-▪ Horários
-▪ Ajuda
+▪ Vizualizar notas
+▪ Membros Matéria
+▪ Alterar Grade
+▪ Avisos
 
    ### Requisitos Não Funcionais
    <Comentário: Requisito Não Funcional é aquele que define os parâmetros de
