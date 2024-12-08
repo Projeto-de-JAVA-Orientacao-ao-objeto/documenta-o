@@ -20,12 +20,9 @@ Este projeto visa desenvolver um sistema de uma instituição de ensino utilizan
 8. [Contato](#contato)
 
 ## Definições, Acrônimos e Abreviações.
-< Comentário: listar siglas, termos e abreviações que estão envolvidas com o
-sistema e que são utilizadas pelos usuários para indicar áreas internas, documentos,
-processos, etc e são relevantes para o projeto. Listar em ordem alfabética.>
-Exemplos:
-▪ DAC – departamento de adminitracao e controle  
-▪ Controle de caixa – é o processo onde ....  
+▪ DC - Documentação 
+▪ UC - Unidade de codigo 
+▪ BD - Banco de dados 
 ▪ SCRUM - Metodologia ágil utilizada no desenvolvimento de projetos  
 
 ## Requisitos ou História de Usuário
@@ -64,8 +61,8 @@ ID Aluno RF 04 O sistema irá exibir uma interface com as seguinte opções:
    < ▪ Avisos  
 
    ### Requisitos Não Funcionais
-   < ▪ O sistema deve responder a qualquer operação no tempo máximo de 2 segundos.
-   < ▪ O sistema deve ser seguro ao armazenar as informações do cliente.
+   < ▪ O sistema deve responder a qualquer operação no tempo máximo de 2 segundos.  
+   < ▪ O sistema deve ser seguro ao armazenar as informações do cliente.  
 
 ## Diagramas UML
    <Comentario
