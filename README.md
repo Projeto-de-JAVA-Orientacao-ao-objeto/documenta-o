@@ -42,7 +42,7 @@ O grupo pode optar por usar história de usuário.
    ### Requisitos Funcionais
 ID Login - 01 -  O sistema deverá solicitar ao usuário seu login e senha e verificar se o mesmo possui permissão de acesso ao sistema
 
-ID Administrador RF 02 O sistema irá exibir uma interface com as seguinte opções:
+ID Administrador RF 02 O sistema irá exibir uma interface com as seguinte opções
 
    < ▪ Cadastrar Usuário>
    < ▪ Cadastrar Curso>
