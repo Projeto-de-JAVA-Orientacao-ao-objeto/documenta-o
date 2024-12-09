@@ -65,45 +65,13 @@ ID Aluno RF 04 O sistema irá exibir uma interface com as seguinte opções:
    < ▪ O sistema deve ser seguro ao armazenar as informações do cliente.  
 
 ## Diagramas UML
-   [Future [MConverter.eu].pdf](https://github.com/user-attachments/files/18068499/Future.MConverter.eu.pdf)
-   ![Future](https://github.com/user-attachments/assets/d396e9f4-ef91-4333-abe4-fc3a47aebdcd)
 
-   
-div align="center"
-   img src="![Future](https://github.com/user-attachments/assets/d396e9f4-ef91-4333-abe4-fc3a47aebdcd)" width="300" /
-/div
+"![Future](https://github.com/user-attachments/assets/d396e9f4-ef91-4333-abe4-fc3a47aebdcd)"
 
-  
-   ### Diagrama de Casos de Uso
-    <Comentario 
-    ID Caso de Uso               Descrição do Objetivo do Caso de Uso
-    UC1 Consultar Pedido de Sala Permite consultar os pedidos de sala solicitados.
    
    ### Diagrama de Classe
 
-1. Desempenho
-▪ O sistema deve carregar as principais funcionalidades em menos de 2 segundos para a maioria dos usuários, considerando conexões de internet com velocidade média de 10 Mbps.
-▪ O tempo de resposta para as ações do usuário (como salvar notas ou postar atividades) deve ser inferior a 1 segundo.
-▪ O aplicativo deve funcionar de forma eficiente em dispositivos com memória RAM a partir de 2 GB.
-
-2. Usabilidade
-▪ O sistema deve ser intuitivo e fácil de usar, minimizando a necessidade de treinamento para professores, alunos e administradores.
-▪ Deve incluir um design responsivo, que permita a utilização em smartphones, tablets e desktops sem perda de funcionalidade ou legibilidade.
-▪ Deve apresentar feedback visual imediato para cada interação do usuário (ex.: animações simples, mensagens de confirmação ou erro).
-
-3. Confiabilidade e Disponibilidade
-▪ O sistema deve ter uma disponibilidade mínima de 99,5% ao longo do mês.
-▪ Em caso de falhas ou interrupções, a aplicação deve oferecer uma recuperação em menos de 1 hora.
-▪ Deve manter backups automáticos diários das informações críticas para garantir a integridade dos dados.
-
-4. Escalabilidade
-▪ O sistema deve ser capaz de suportar até 5.000 usuários simultâneos sem perda significativa de desempenho.
-▪ Deve permitir a expansão futura com adição de novos módulos (ex.: funcionalidades extras ou integração com outros sistemas) sem reestruturação significativa.
-
-5. Segurança
-▪ Todas as comunicações entre o cliente e o servidor devem ser criptografadas usando HTTPS e SSL/TLS.
-▪ Deve garantir autenticação segura para todos os usuários com controle de acesso baseado em papéis (RBAC).
-▪ Os dados sensíveis devem ser armazenados com hashing seguro para senhas e criptografia para informações críticas.
+Link do diagrama de class: [Future [MConverter.eu].pdf](https://github.com/user-attachments/files/18068499/Future.MConverter.eu.pdf)
 
 
 ## Estrutura do Projeto 
