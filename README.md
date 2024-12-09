@@ -95,5 +95,5 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo (https://githu
     
 Eric Dias Lemos - ericdias0603@gmail.com    
 Vitor Junio    
-Gabriel Henrique  
+Gabriel Henrique Nascimento Ribeiro Rezende 
 Gustavo   
