@@ -113,6 +113,10 @@ ID Aluno RF 04 O sistema irá exibir uma interface com as seguinte opções:
    ```sh
    git clone https://github.com/sua-organizacao/nome-do-repositorio.git
 ## Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo <LICENSE> para mais detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo (https://github.com/Projeto-de-JAVA-Orientacao-ao-objeto/documents/blob/main/MIT%20License) para mais detalhes.
 ## Contato
 <Comentario: adicione foto, nome e email dos integrantes do grupo>
+Eric Dias Lemos - ericdias0603@gmail.com
+Vitor Junio
+Gabriel Henrique
+Gustavo 
