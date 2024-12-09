@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto visa desenvolver um sistema de uma instituição de ensino utilizando a metodologia ágil e práticas de DevOps integradas ao GitHub. A arquitetura do software seguirá o padrão Model-View-Controller (MVC) e incorporará o(s) padrõe(s) de projeto  Factory e Observer para garantir uma base de código robusta e escalável. O desenvolvimento será feito na linguagem Java.-
+Este projeto visa desenvolver um sistema de uma instituição de ensino utilizando a metodologia ágil e práticas de DevOps integradas ao GitHub. A arquitetura do software seguirá o padrão Model-View-Controller (MVC) e incorporará o(s) padrõe(s) de projeto  Factory, Observer, Singleton e Command  para garantir uma base de código robusta e escalável. O desenvolvimento será feito na linguagem Java.-
 
 ## Índice
 
@@ -27,8 +27,8 @@ Este projeto visa desenvolver um sistema de uma instituição de ensino utilizan
 
 ## Requisitos ou História de Usuário
 
- < ▪ O usuário administrador/aluno/professor deve conseguir acessar a tela de login.   
- < ▪ O login deve ser efetuado em no maximo 3 segundos.   
+![WhatsApp Image 2024-12-09 at 19 38 14](https://github.com/user-attachments/assets/9c20665d-8563-453a-8db4-e477b6b84e0b)
+
 
    ### Requisitos Funcionais
 ID Login - 01 -  O sistema deverá solicitar ao usuário seu login e senha e verificar se o mesmo possui permissão de acesso ao sistema  
@@ -75,9 +75,10 @@ Link do arquivo Diagrama de Classe: [Future [MConverter.eu].pdf](https://github.
 
 
 ## Estrutura do Projeto 
-<Comentario: faça a adaptação necessária para o seu projeto
-- `src/`: Código-fonte do projeto.
-- `docs/`: (https://github.com/Projeto-de-JAVA-Orientacao-ao-objeto/documents)
+<Comentario: faça a adaptação necessária para o seu projeto    
+`src/`: Código-fonte do projeto.    
+`lib/`: Documentação do Banco de dados     
+`docs/`: Documentação do projeto    
 
 ## Tecnologias Utilizadas
 - [JAVA]
@@ -90,8 +91,9 @@ Link do arquivo Diagrama de Classe: [Future [MConverter.eu].pdf](https://github.
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo (https://github.com/Projeto-de-JAVA-Orientacao-ao-objeto/documents/blob/main/MIT%20License) para mais detalhes.
 ## Contato
-<Comentario: adicione foto, nome e email dos integrantes do grupo>
-Eric Dias Lemos - ericdias0603@gmail.com
-Vitor Junio
-Gabriel Henrique
-Gustavo 
+<Comentario: adicione foto, nome e email dos integrantes do grupo>   
+    
+Eric Dias Lemos - ericdias0603@gmail.com    
+Vitor Junio    
+Gabriel Henrique  
+Gustavo   
