@@ -20,8 +20,8 @@ Este projeto visa desenvolver um sistema de uma instituição de ensino utilizan
 8. [Contato](#contato)
 
 ## Definições, Acrônimos e Abreviações.
- < ▪ DC - Documentação 
- < ▪ UC - Unidade de codigo        
+ < ▪ DC - Documentação           
+ < ▪ UC - Unidade de codigo            
  < ▪ BD - Banco de dados   
  < ▪ SCRUM - Metodologia ágil utilizada no desenvolvimento de projetos   
 
