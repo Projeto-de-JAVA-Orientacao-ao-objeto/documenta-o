@@ -70,7 +70,7 @@ ID Aluno RF 04 O sistema irá exibir uma interface com as seguinte opções:
 
    
 div align="center"
-img src="![Future](https://github.com/user-attachments/assets/d396e9f4-ef91-4333-abe4-fc3a47aebdcd)" /
+   img src="![Future](https://github.com/user-attachments/assets/d396e9f4-ef91-4333-abe4-fc3a47aebdcd)" width="300" /
 /div
 
   
