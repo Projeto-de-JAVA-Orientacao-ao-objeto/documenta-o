@@ -71,7 +71,7 @@ ID Aluno RF 04 O sistema irá exibir uma interface com as seguinte opções:
    
    ### Diagrama de Classe
 
-Link do diagrama de class: [Future [MConverter.eu].pdf](https://github.com/user-attachments/files/18068499/Future.MConverter.eu.pdf)
+Link do arquivo Diagrama de Classe: [Future [MConverter.eu].pdf](https://github.com/user-attachments/files/18068499/Future.MConverter.eu.pdf)
 
 
 ## Estrutura do Projeto 
