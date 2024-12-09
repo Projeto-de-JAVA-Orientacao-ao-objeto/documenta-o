@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto visa desenvolver um sistema de uma instituição de ensino utilizando a metodologia ágil e práticas de DevOps integradas ao GitHub. A arquitetura do software seguirá o padrão Model-View-Controller (MVC) e incorporará o(s) padrõe(s) de projeto  Factory, Observer, Singleton e Command  para garantir uma base de código robusta e escalável. O desenvolvimento será feito na linguagem Java.-
+Este projeto visa desenvolver um sistema de uma instituição de ensino utilizando a metodologia ágil e práticas de DevOps integradas ao GitHub. A arquitetura do software seguirá o padrão Model-View-Controller (MVC) e incorporará o(s) padrõe(s) de projeto  Factory, Observer, Singleton, Strategy e Command  para garantir uma base de código robusta e escalável. O desenvolvimento será feito na linguagem Java.-
 
 ## Índice
 
