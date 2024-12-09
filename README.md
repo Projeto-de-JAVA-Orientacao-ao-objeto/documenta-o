@@ -82,7 +82,7 @@ Link do arquivo Diagrama de Classe: [Future [MConverter.eu].pdf](https://github.
 
 ## Tecnologias Utilizadas
 - [JAVA]
-- [SQL]
+- [MYSQL]
 
 ## Instruções de Instalação
 1. Clone o repositório:
