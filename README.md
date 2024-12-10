@@ -87,7 +87,16 @@ Link do arquivo Diagrama de Classe: [Future [MConverter.eu].pdf](https://github.
 ## Instruções de Instalação
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/sua-organizacao/nome-do-repositorio.git
+   git clone [https://github.com/sua-organizacao/nome-do-repositorio.git](https://github.com/Projeto-de-JAVA-Orientacao-ao-objeto/code/tree/main/Future)
+
+   importar e instalar banco de dados https://github.com/Projeto-de-JAVA-Orientacao-ao-objeto/database/blob/main/future.sql
+   
+   caminho do banco: localhost:3306
+   login: root
+   senha: future2024
+
+   executar pastar "main"
+   
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo (https://github.com/Projeto-de-JAVA-Orientacao-ao-objeto/documents/blob/main/MIT%20License) para mais detalhes.
 ## Contato
