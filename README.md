@@ -27,6 +27,8 @@ Este projeto visa desenvolver um sistema de uma instituição de ensino utilizan
 
 ## Requisitos ou História de Usuário
 
+Ideia inicial do projeto`https://www.figma.com/design/1xbJAbvJVv1xFJAJ1zLqtj/ProjetoJava?node-id=0-1&t=9TOV98ulzcJDptbf-1`
+
 ![WhatsApp Image 2024-12-09 at 19 38 14](https://github.com/user-attachments/assets/9c20665d-8563-453a-8db4-e477b6b84e0b)
 
 
