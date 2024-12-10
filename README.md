@@ -94,6 +94,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo (https://githu
 <Comentario: adicione foto, nome e email dos integrantes do grupo>   
     
 Eric Dias Lemos - ericdias0603@gmail.com    
-Vitor Junio    
+Vitor Junio - vitorjunio312@hotmail.com
 Gabriel Henrique Nascimento Ribeiro Rezende 
 Gustavo   
