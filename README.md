@@ -104,5 +104,5 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo (https://githu
     
 Eric Dias Lemos - ericdias0603@gmail.com     
 Vitor Junio Moreira da Silva - vitorjunio312@hotmail.com   
-Gabriel Henrique Nascimento Ribeiro Rezende     
+Gabriel Henrique Nascimento Ribeiro Rezende - gabrielhnrezende@gmail.com     
 Gustavo Lopes de Oliveira    
