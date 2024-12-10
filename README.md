@@ -74,27 +74,27 @@ ID Aluno RF 04 O sistema irá exibir uma interface com as seguinte opções:
 Link do arquivo Diagrama de Classe: [Future [MConverter.eu].pdf](https://github.com/user-attachments/files/18068499/Future.MConverter.eu.pdf)
 
 
-## Estrutura do Projeto 
-•    Estrutura de Diretórios Utilizada:
-├── src/
-│   ├── `model/`
-│   ├── `view/`
-│   ├── `controller/`
-│   ├── `service/`
-│   └── `database/`
-•    Explicação rápida de cada diretório:
-o    Model: Classes que representam os dados e regras de negócio.
-o    View: Classes que representam a interface do projeto.
-o    Controller: Classes utilizadas para a intermediação entre a interface e o projeto.
-o    Service: Classes utilizadas para gerenciar a lógica do projeto.
-o    Database: Classes utilizadas para a interação com o banco de dados.
-__
-•    Diagrama do fluxo de dados no projeto:
-o    Usuário interage com a View.
-o    Controller processa a interação e acessa o Service.
-o    Service interage com o Database e Model.
-o    View exibe os resultados. 
-
+## Estrutura do Projeto  
+•    Estrutura de Diretórios Utilizada:   
+├── src/   
+│   ├── `model/`   
+│   ├── `view/`   
+│   ├── `controller/`   
+│   ├── `service/`    
+│   └── `database/`   
+•    Explicação rápida de cada diretório:   
+o    Model: Classes que representam os dados e regras de negócio.   
+o    View: Classes que representam a interface do projeto.   
+o    Controller: Classes utilizadas para a intermediação entre a interface e o projeto.   
+o    Service: Classes utilizadas para gerenciar a lógica do projeto.   
+o    Database: Classes utilizadas para a interação com o banco de dados.   
+__   
+•    Diagrama do fluxo de dados no projeto:  
+o    Usuário interage com a View.   
+o    Controller processa a interação e acessa o Service.   
+o    Service interage com o Database e Model.  
+o    View exibe os resultados.    
+  
 ## Tecnologias Utilizadas
 - [JAVA]
 - [MYSQL]
